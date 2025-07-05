@@ -1,0 +1,70 @@
+[
+    {
+        "id": 0,
+        "className": "facebook",
+        "img": {
+            "src": "/images/icon-facebook.svg",
+            "alt": "Facebook"
+        },
+        "userName": "@nathanf",
+        "numberOfFollowers": "1987",
+        "change": 12,
+        "status": {
+            "img": "./images/icon-up.svg",
+            "alt": "Up",
+            "className": "up"
+        },
+        "day": "Today"
+    },
+    {
+        "id": 1,
+        "className": "twitter",
+        "img": {
+            "src": "./images/icon-twitter.svg",
+            "alt": "Twitter"
+        },
+        "userName": "@nathanf",
+        "numberOfFollowers": "1044",
+        "change": 99,
+        "status": {
+            "img": "./images/icon-up.svg",
+            "alt": "Up",
+            "className": "up"
+        },
+        "day": "Today"
+    },
+    {
+        "id": 2,
+        "className": "instagram",
+        "img": {
+            "src": "./images/icon-instagram.svg",
+            "alt": "instagram"
+        },
+        "userName": "@realnathanf",
+        "numberOfFollowers": "11k",
+        "change": 1099,
+        "status": {
+            "img": "./images/icon-up.svg",
+            "alt": "Up",
+            "className": "up"
+        },
+        "day": "Today"
+    },
+    {
+        "id": 3,
+        "className": "youtube",
+        "img": {
+            "src": "./images/icon-youtube.svg",
+            "alt": "Youtube"
+        },
+        "userName": "Nathan F.",
+        "numberOfFollowers": "8239",
+        "change": 144,
+        "status": {
+            "img": "./images/icon-down.svg",
+            "alt": "Down",
+            "className": "down"
+        },
+        "day": "Today"
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "id": 0,
+        "type": "Page Views",
+        "sm_img": {
+            "src": "./images/icon-facebook.svg",
+            "alt": "Facebook"
+        },
+        "number": "87",
+        "status": {
+            "src": "./images/icon-up.svg",
+            "alt": "Up",
+            "className": "up"
+        },
+        "percentage": 3
+    },
+    {
+        "id": 1,
+        "type": "Likes",
+        "sm_img": {
+            "src": "./images/icon-facebook.svg",
+            "alt": "Facebook"
+        },
+        "number": "52",
+        "status": {
+            "src": "./images/icon-down.svg",
+            "alt": "Down",
+            "className": "down"
+        },
+        "percentage": 2
+    },
+    {
+        "id": 2,
+        "type": "Likes",
+        "sm_img": {
+            "src": "./images/icon-instagram.svg",
+            "alt": "Instagram"
+        },
+        "number": "5462",
+        "status": {
+            "src": "./images/icon-up.svg",
+            "alt": "Up",
+            "className": "up"
+        },
+        "percentage": 2257
+    },
+    {
+        "id": 3,
+        "type": "Profile Views",
+        "sm_img": {
+            "src": "./images/icon-instagram.svg",
+            "alt": "Instagram"
+        },
+        "number": "52k",
+        "status": {
+            "src": "./images/icon-up.svg",
+            "alt": "Up",
+            "className": "up"
+        },
+        "percentage": 1375
+    },
+    {
+        "id": 4,
+        "type": "Retweets",
+        "sm_img": {
+            "src": "./images/icon-twitter.svg",
+            "alt": "Twitter"
+        },
+        "number": "117",
+        "status": {
+            "src": "./images/icon-up.svg",
+            "alt": "Up",
+            "className": "up"
+        },
+        "percentage": 303
+    },
+    {
+        "id": 5,
+        "type": "Likes",
+        "sm_img": {
+            "src": "./images/icon-twitter.svg",
+            "alt": "Twitter"
+        },
+        "number": "507",
+        "status": {
+            "src": "./images/icon-up.svg",
+            "alt": "Up",
+            "className": "up"
+        },
+        "percentage": 553
+    },
+    {
+        "id": 6,
+        "type": "Likes",
+        "sm_img": {
+            "src": "./images/icon-youtube.svg",
+            "alt": "Youtube"
+        },
+        "number": "107",
+        "status": {
+            "src": "./images/icon-down.svg",
+            "alt": "Down",
+            "className": "down"
+        },
+        "percentage": 19
+    },
+    {
+        "id": 7,
+        "type": "Total Views",
+        "sm_img": {
+            "src": "./images/icon-youtube.svg",
+            "alt": "Youtube"
+        },
+        "number": "1407",
+        "status": {
+            "src": "./images/icon-down.svg",
+            "alt": "Down",
+            "className": "down"
+        },
+        "percentage": 12
+    }
+]
